@@ -1,31 +1,41 @@
-# Olá! Sou o Vitor Guedes 🖐️
+# Olá! 🖐️
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação com experiência em desenvolvimento full-stack e ciência de dados. Foco no desenvolvimento de sistemas voltados para ciência de dados, integrando soluções ágeis com banco de dados e interfaces, aplicando técnicas de análise e modelagem para extrair insights e otimizar processos.
+Estudante de Ciência da Computação com experiência em desenvolvimento Full-Stack e Quality Assurance. Possuo foco em aplicações web/mobile e automação de processos. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedes-8862b424b/)
 
 ---
 
-## 🛠️ Tecnologias que eu uso no meu dia a dia
+## 🛠️ Stack do dia a dia
 
-<div style="display: inline_block">
+<div class="flex flex-wrap gap-1 p-2">
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="nest" src="https://img.shields.io/badge/NestJS-E0235C?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3987C5?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img align="center" alt="next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorGuedes22&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuedes22&layout=compact&theme=radical)
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorGuedes22&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuedes22&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorGuedes22&theme=radical)
+
+</div>
 
 ## 📫 Entre em contato
 
