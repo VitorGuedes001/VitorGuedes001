@@ -28,13 +28,6 @@ Estudante de Ciência da Computação com experiência em desenvolvimento Full-S
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://ghstats.onrender.com/api?username=VitorGuedes001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170em" src="https://ghstats.onrender.com/api/top-langs/?username=VitorGuedes001&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorGuedes001&theme=radical"/>
 </div>
 
