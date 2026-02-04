@@ -4,7 +4,7 @@
 
 Estudante de Ciência da Computação com experiência em desenvolvimento Full-Stack e Quality Assurance. Atualmente trabalho desenvolvendo aplicações web/mobile e automação de processos. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedes-8862b424b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorguedesfrade/)
 
 ---
 
